@@ -12,7 +12,7 @@ BookNet rectifies photographed dual-page book images by explicitly modeling the 
 
 ## Model
 
-The model is defined in [`model.py`](./model.py) in the root directory.
+The model is defined in [`BookNet.py`](./BookNet.py) in the root directory.
 
 ## Datasets
 
