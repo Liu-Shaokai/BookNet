@@ -1,5 +1,7 @@
 # <div align="center">BookNet: Dual-Page Book Image Rectification <br/>via Cross-Page Attention</div>
 
+
+
 <div align="center">
   <a href="https://arxiv.org/abs/2601.21938"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2601.21938-CE0000?logo=arXiv&logoColor=white&labelColor=gray"></a>
   <a href="https://huggingface.co/datasets/skliu520/Book100"><img alt="HuggingFace Dataset" src="https://img.shields.io/badge/🤗_HuggingFace-Book100-FFBF00?labelColor=gray"></a>
@@ -9,6 +11,10 @@
 Official implementation of [**Dual-Page Book Image Rectification via Cross-Page Attention**](https://arxiv.org/abs/2601.21938).
 
 BookNet rectifies photographed dual-page book images by explicitly modeling the geometric correlation between the two facing pages with a cross-page attention mechanism. We also release **Book3D**, a large-scale synthetic training set of dual-page book distortions, and **Book100**, a real-world benchmark for evaluation.
+
+
+🔥 **Good news! Our work has been accepted by IEEE Transactions on Multimedia.**
+
 
 ## Model
 
